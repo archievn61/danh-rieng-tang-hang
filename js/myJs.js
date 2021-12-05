@@ -1,5 +1,5 @@
 const textConfig = {
-  text1: "He luu Hằng xưn gái!",
+  text1: "He luu Hằng xưnn gái!",
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
   text3: "Tớ yêu cậu, Cậu đồng ý làm người yêu tớ nhé <3 ",
   text4: "Nếu cậu ko trả lời mà thoát ra là tớ bùn lắm óoo :((((",
