@@ -5,7 +5,7 @@ const textConfig = {
   text4: "Nếu cậu ko trả lời mà thoát ra là tớ bùn lắm óooo :((((",
   text5: "Cậu đừng mơ ???",
   text6: "Tớ đồng ýyy, tớ cũng yêu cậu, Gấu béo của tớ <3",
-  text7: "Lí do cậu iu tớ đi :vvvv",
+  text7: "Lí do cậu iuu tớ đi :vvvv",
   text8: "Gửi cho tớ nhá <3",
   text9: "Vì Gấu béo của tớ đáng iuuuuu mà <3 ",
   text10: "Tớ biết mà ^^ Yêu cậu nhìuuuuuu",
